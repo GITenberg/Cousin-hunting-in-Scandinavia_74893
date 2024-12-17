@@ -1,0 +1,27 @@
+_repo: Cousin-hunting-in-Scandinavia_74893
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williams, Mary Wilhelmine
+    gutenberg_agent_id: '57710'
+    url: http://www.gutenberg.org/2009/agents/57710
+description: ''
+gutenberg_issued: '2024-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74893'
+language: en
+pgterms:marc904: https://archive.org/details/cousinhuntingins00will/page/n7/mode/2up?q=%22Cousin-hunting%22+in+Scandinavia
+pgterms:marc905: 20240729192729williams
+pgterms:marc906: '1916'
+pgterms:marc907: us
+production_note: Fiona Holmes and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive.)
+publication_note: '  $aUnited States :$bRichard G. Badger, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Cousin-hunting in Scandinavia
+url: http://www.gutenberg.org/ebooks/74893
